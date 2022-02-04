@@ -9,14 +9,13 @@ It's developed as console application using C#.
 
 # If downloading a whole project
 
-After downloading the project, if you want to check and work with code 
-uncomment the **Main** method from **_ExtensionToContentTypeHelper_** class and Run.
+After downloading the project, if you want to check and work with code run from visual studio.
 
 you can either choose **Extension to MimeType(ContentType)** or **MimeType(ContentType) to Extension**.
 
 # If you want to add it your project
 
-Get the **_ExtensionToContentTypeHelper_** class file and add it in your project.
+Get the **_ExtensionToContentTypeHelper_** class file and add it in your project and remove main method from class.
 
 **Getting the _MimeType or ContentType_ for extension**
 
@@ -29,7 +28,7 @@ string contentType = helper.GetContentTypeByExtension(".pdf");
 
 ```c#
 ExtensionToContentTypeHelper helper = new ExtensionToContentTypeHelper();
-string contentType = helper.GetExtensionByContentType("application/pdf");
+string extension = helper.GetExtensionByContentType("application/pdf");
 ```
 
 **Remove commented main method if you dont want to keep**
