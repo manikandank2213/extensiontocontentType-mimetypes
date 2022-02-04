@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExtensionToMimeType</id>
+    <version>1.0.0</version>
+    <authors>Manikandan Krishnan</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\bin\Debug\netcoreapp3.1\ExtensionToContentType.runtimeconfig.json" target="lib\netcoreapp3.1\ExtensionToContentType.runtimeconfig.json" />
+    <file src="C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\bin\Debug\netcoreapp3.1\ExtensionToContentType.dll" target="lib\netcoreapp3.1\ExtensionToContentType.dll" />
+  </files>
+</package>

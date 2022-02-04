@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mLNMEhazrMPfOBXQExaRPymrwU6JMoXdwY/DEauCF4P8LNv3fC4KcibJjU6IAwXyr14gD7eP+si6N7CXlED5Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manik\\source\\repos\\ExtensionToContentType\\ExtensionToContentType\\ExtensionToContentType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
