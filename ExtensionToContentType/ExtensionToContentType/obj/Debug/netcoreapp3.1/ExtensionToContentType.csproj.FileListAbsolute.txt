@@ -1,0 +1,13 @@
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\bin\Debug\netcoreapp3.1\ExtensionToContentType.exe
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\bin\Debug\netcoreapp3.1\ExtensionToContentType.deps.json
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\bin\Debug\netcoreapp3.1\ExtensionToContentType.runtimeconfig.json
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\bin\Debug\netcoreapp3.1\ExtensionToContentType.runtimeconfig.dev.json
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\bin\Debug\netcoreapp3.1\ExtensionToContentType.dll
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\bin\Debug\netcoreapp3.1\ExtensionToContentType.pdb
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\obj\Debug\netcoreapp3.1\ExtensionToContentType.csproj.AssemblyReference.cache
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\obj\Debug\netcoreapp3.1\ExtensionToContentType.AssemblyInfoInputs.cache
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\obj\Debug\netcoreapp3.1\ExtensionToContentType.AssemblyInfo.cs
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\obj\Debug\netcoreapp3.1\ExtensionToContentType.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\obj\Debug\netcoreapp3.1\ExtensionToContentType.dll
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\obj\Debug\netcoreapp3.1\ExtensionToContentType.pdb
+C:\Users\manik\source\repos\ExtensionToContentType\ExtensionToContentType\obj\Debug\netcoreapp3.1\ExtensionToContentType.genruntimeconfig.cache
